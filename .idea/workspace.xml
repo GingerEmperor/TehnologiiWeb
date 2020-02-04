@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62dc51bf-183b-4c52-a0d1-30c0d9b58ef8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/TegnologiiWeb.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TegnologiiWeb.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UFC site/UFCMaxГлавн.html" beforeDir="false" afterPath="$PROJECT_DIR$/UFC site/UFCMaxГлавн.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580829857515</updated>
-      <workItem from="1580829862157" duration="1742000" />
+      <workItem from="1580829862157" duration="2679000" />
     </task>
     <servers />
   </component>
