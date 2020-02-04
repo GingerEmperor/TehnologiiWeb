@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TegnologiiWeb.iml" filepath="$PROJECT_DIR$/TegnologiiWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TegnologiiWeb.iml" filepath="$PROJECT_DIR$/.idea/TegnologiiWeb.iml" />
     </modules>
   </component>
 </project>
